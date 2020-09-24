@@ -1,2 +1,2 @@
 # powershell-custom-functions
-Small library of PowerShell functions to make some things easier or faster.
+Small library of PowerShell functions that I created to make some things easier or faster while I used the software.
